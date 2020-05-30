@@ -1,0 +1,194 @@
+#index.html{
+    height: 100vh;
+}
+
+#creations.html{
+    height: 600vh;
+}
+
+a{
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+li:hover{
+    color: grey;
+    transition: 0.5s;   
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.7em;
+}
+
+ul{
+    margin-left: 720px;
+    display: flex;
+    width: 600px;
+    justify-content:space-between;
+    text-align: center;
+    margin-top: 60px;
+}
+
+li{
+    text-align: center;
+    color: black;
+}
+
+
+body{
+    font-family: avenir black;
+    }
+
+img{
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+div{
+    display: block;
+    width: 1800px;
+    margin: 50px auto;
+    height: 710px;
+    overflow: hidden;
+    background-color: black;
+}
+
+
+p{
+    top: 400px;
+    margin-left: 200 px;
+    position: absolute;
+    margin-left: 1050px;
+    font-family: avenir;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#toto{
+    margin-top: 100px;
+    width: 300px;
+    margin-left: 600px;
+}
+
+#intro{
+        width: 1500px;
+        margin-top: 105px;
+}
+
+#travis{
+    width: 500px;
+    margin-top: 105px;
+    position: absolute;
+    display: flex;
+    left: 780px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+}
+
+#travis:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+#colline{
+    width: 500px;
+    margin-top: 105px;
+    position: absolute;
+    left: 1400px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+}
+
+#colline:hover{
+    transform: scale(1.1);
+}
+
+
+
+#theweeknd{
+    width: 500px;
+    margin-top: 105px;
+    position: absolute;
+    display: flex;
+    left: 160px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+}
+
+#theweeknd:hover{
+    transform: scale(1.1);
+}
+
+
+
+#tokyo{
+    width: 500px;
+    margin-top: 720px;
+    position: absolute;
+    display: flex;
+    left: 160px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+}
+
+#tokyo:hover{
+    transform: scale(1.1);
+}
+
+
+
+#sanko{
+    width: 500px;
+    margin-top: 720px;
+    position: absolute;
+    display: flex;
+    left: 780px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+}
+
+#sanko:hover{
+    transform: scale(1.1);
+}
+
+
+
+#pioupiou{
+    width: 500px;
+    margin-top: 720px;
+    position: absolute;
+    left: 1400px;
+    margin-bottom: 150px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: all 1s ease;
+
+}
+
+#pioupiou:hover{
+    transform: scale(1.1);
+}
+
+
+#reseaux{
+    display: block;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
